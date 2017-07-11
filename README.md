@@ -7,5 +7,5 @@
 $ node demo/index.js
 ```
 
-![demo.png](./demo/assets/demo.png?raw=true)
+![demo.png](demo/assets/demo.png?raw=true)
 
