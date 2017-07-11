@@ -1,0 +1,42 @@
+[
+  {
+    "name": "react",
+    "version": "15.3.2",
+    "file": "react-with-addons.min.js"
+  },
+  {
+    "name": "react",
+    "version": "15.3.2",
+    "file": "react-dom.min.js"
+  },
+  {
+    "name": "antd",
+    "version": "2.8.0",
+    "file": "antd.min.js"
+  },
+  {
+    "name": "antd-mobile",
+    "version": "1.0.5",
+    "file": "antd-mobile.min.js"
+  },
+  {
+    "name": "lodash.js",
+    "version": "4.16.1",
+    "file": "lodash.min.js"
+  },
+  {
+    "name": "echarts",
+    "version": "3.5.2",
+    "file": "echarts.min.js"
+  },
+  {
+    "name": "moment.js",
+    "version": "2.17.1",
+    "file": "moment-with-locales.min.js"
+  },
+  {
+    "name": "numeral.js",
+    "version": "2.0.4",
+    "file": "numeral.min.js"
+  }
+]

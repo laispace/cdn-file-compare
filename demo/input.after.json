@@ -1,0 +1,38 @@
+[
+  {
+    "name": "react",
+    "version": "15.6.1",
+    "file": "react-with-addons.min.js"
+  },
+  {
+    "name": "react",
+    "version": "15.6.1",
+    "file": "react-dom.min.js"
+  },
+  {
+    "name": "antd-mobile",
+    "version": "1.4.1",
+    "file": "antd-mobile.min.js"
+  },
+  {
+    "name": "lodash.js",
+    "version": "4.17.4",
+    "file": "lodash.min.js"
+  },
+  {
+    "baseUrl": "https://dasstatic.alicdn.com/alisis3/libs",
+    "name": "echarts",
+    "version": "3.6.2",
+    "file": "echarts-20170710-customized.min.js"
+  },
+  {
+    "name": "moment.js",
+    "version": "2.18.1",
+    "file": "moment.min.js"
+  },
+  {
+    "name": "numeral.js",
+    "version": "2.0.6",
+    "file": "numeral.min.js"
+  }
+]
