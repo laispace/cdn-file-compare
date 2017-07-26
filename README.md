@@ -4,6 +4,7 @@
 
 ```
 // example
+$ npm i
 $ node demo/index.js
 ```
 

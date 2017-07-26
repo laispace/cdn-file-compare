@@ -15,11 +15,6 @@
     "file": "antd.min.js"
   },
   {
-    "name": "antd-mobile",
-    "version": "1.0.5",
-    "file": "antd-mobile.min.js"
-  },
-  {
     "name": "lodash.js",
     "version": "4.16.1",
     "file": "lodash.min.js"

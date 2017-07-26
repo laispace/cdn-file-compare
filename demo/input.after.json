@@ -10,9 +10,9 @@
     "file": "react-dom.min.js"
   },
   {
-    "name": "antd-mobile",
-    "version": "1.4.1",
-    "file": "antd-mobile.min.js"
+    "name": "antd",
+    "version": "2.8.0",
+    "file": "antd.min.js"
   },
   {
     "name": "lodash.js",
