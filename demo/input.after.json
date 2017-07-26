@@ -61,6 +61,11 @@
     "file": "moment.min.js"
   },
   {
+    "name": "moment.js",
+    "version": "2.18.1",
+    "file": "locale/zh-cn.js"
+  },
+  {
     "name": "numeral.js",
     "version": "2.0.6",
     "file": "numeral.min.js"
