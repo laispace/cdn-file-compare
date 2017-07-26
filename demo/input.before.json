@@ -1,5 +1,20 @@
 [
   {
+    "name": "codemirror",
+    "version": "5.21.0",
+    "file": "codemirror.js"
+  },
+  {
+    "name": "codemirror",
+    "version": "5.21.0",
+    "file": "codemirror.css"
+  },
+  {
+    "name": "codemirror",
+    "version": "5.21.0",
+    "file": "mode/sql/sql.js"
+  },
+  {
     "name": "react",
     "version": "15.3.2",
     "file": "react-with-addons.min.js"
@@ -13,6 +28,21 @@
     "name": "antd",
     "version": "2.8.0",
     "file": "antd.min.js"
+  },
+  {
+    "name": "antd",
+    "version": "2.8.0",
+    "file": "antd.min.css"
+  },
+  {
+    "name": "antd-mobile",
+    "version": "1.0.5",
+    "file": "antd-mobile.min.js"
+  },
+  {
+    "name": "antd-mobile",
+    "version": "1.0.5",
+    "file": "antd-mobile.min.css"
   },
   {
     "name": "lodash.js",
@@ -33,5 +63,10 @@
     "name": "numeral.js",
     "version": "2.0.4",
     "file": "numeral.min.js"
+  },
+  {
+    "name": "keymaster",
+    "version": "1.6.1",
+    "file": "keymaster.js"
   }
 ]
